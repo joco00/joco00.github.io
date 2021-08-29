@@ -2,3 +2,5 @@
 *.py
 html_templates/**
 test/**
+main_pages/**
+writings/**
