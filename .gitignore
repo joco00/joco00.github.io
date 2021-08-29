@@ -1,2 +1,4 @@
 *.sh
 *.py
+html_templates/**
+test/**
