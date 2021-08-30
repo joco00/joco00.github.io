@@ -1,0 +1,24 @@
+{
+    "templates": {
+        "footer": "html_templates/footer.html",
+        "head": "html_templates/head.html",
+        "header": "html_templates/header.html"
+
+    },
+
+    "end_points": {
+        "posts/first_post.html": "writings/first_post.html",
+        "posts/the_grey_area.html": "writings/the_grey_area.html",
+        
+        "books/daring_greatly.html" : "writings/daring_greatly.html",
+        
+        "home.html": "main_pages/home.html",
+        "about.html": "main_pages/about.html",
+        "interests.html": "main_pages/interests.html",
+        "contact.html": "main_pages/contact.html",
+        "book.html": "main_pages/book.html",
+        "quotes.html": "main_pages/quotes.html",
+        "photos.html": "main_pages/photos.html"
+    }
+
+}
