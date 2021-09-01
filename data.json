@@ -9,6 +9,8 @@
     "end_points": {
         "posts/first_post.html": "writings/first_post.html",
         "posts/the_grey_area.html": "writings/the_grey_area.html",
+        "posts/honesty.html": "writings/honesty.html",
+
         
         "books/daring_greatly.html" : "writings/daring_greatly.html",
         
@@ -18,7 +20,7 @@
         "contact.html": "main_pages/contact.html",
         "book.html": "main_pages/book.html",
         "quotes.html": "main_pages/quotes.html",
-        "photos.html": "main_pages/photos.html"
+        "photos.html": "main_pages/photos.html",
     }
 
 }
