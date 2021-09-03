@@ -10,6 +10,7 @@
         "posts/first_post.html": "writings/first_post.html",
         "posts/the_grey_area.html": "writings/the_grey_area.html",
         "posts/honesty.html": "writings/honesty.html",
+        "hidden_posts/simplicity.html": "writings/simplicity.html",
 
         
         "books/daring_greatly.html" : "writings/daring_greatly.html",

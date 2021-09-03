@@ -1,6 +1,9 @@
 *.sh
 *.py
+*.json
+
 html_templates/**
 test/**
 main_pages/**
 writings/**
+unfinished_posts/**
