@@ -33,6 +33,7 @@
             "contact": "main_pages/contact.html",
             "quotes": "main_pages/quotes.html",
             "photos": "main_pages/photos.html"
+        }
         
     },
 
