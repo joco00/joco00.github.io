@@ -12,9 +12,16 @@
             "posts":{
                 "index": "main_pages/home.html",
                 "unfinished":{
-                    "index":"",
-                    "simplicity": "writings/simplicity.html"
-
+                    "index":"main_pages/unfinished.html",
+                    "simplicity": "writings/unfinished/simplicity.html",
+                    "loneliness": "writings/unfinished/loneliness.html",
+                    "lessons_learned_2021": "writings/unfinished/lessons_learned_2021.html",
+                    "hurt_puppy": "writings/unfinished/hurt_puppy.html",
+                    "depression_and_suicide":"writings/unfinished/depression_and_suicide.html",
+                    "systems":"writings/unfinished/systems.html",
+                    "uncomfortable":"writings/unfinished/uncomfortable.html",
+                    "Judges":"writings/unfinished/judges.html"
+    
                 },
 
                 "first_post": "writings/first_post.html",
