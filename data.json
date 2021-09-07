@@ -15,7 +15,6 @@
                     "index":"main_pages/unfinished.html",
                     "simplicity": "writings/unfinished/simplicity.html",
                     "loneliness": "writings/unfinished/loneliness.html",
-                    "lessons_learned_2021": "writings/unfinished/lessons_learned_2021.html",
                     "hurt_puppy": "writings/unfinished/simplicity.html",
                     "depression_and_suicide":"writings/unfinished/depression_and_suicide.html",
                     "systems":"writings/unfinished/systems.html",
@@ -24,7 +23,7 @@
                     "relationships_ll":"writings/unfinished/relationships_ll.html"
     
                 },
-
+                "lessons_learned_2021": "writings/lessons_learned_2021.html",
                 "first_post": "writings/first_post.html",
                 "the_grey_area": "writings/the_grey_area.html",
                 "honesty": "writings/honesty.html"
