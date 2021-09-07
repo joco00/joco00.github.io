@@ -10,7 +10,7 @@
         "home":{
             "index": "main_pages/home.html",
             "posts":{
-                "index": "",
+                "index": "main_pages/home.html",
                 "unfinished":{
                     "index":"",
                     "simplicity": "writings/simplicity.html"
