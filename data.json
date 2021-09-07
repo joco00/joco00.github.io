@@ -7,21 +7,33 @@
     },
 
     "end_points": {
-        "posts/first_post.html": "writings/first_post.html",
-        "posts/the_grey_area.html": "writings/the_grey_area.html",
-        "posts/honesty.html": "writings/honesty.html",
-        "hidden_posts/simplicity.html": "writings/simplicity.html",
+        "home":{
+            "index": "main_pages/home.html",
+            "posts":{
+                "index": "",
+                "unfinished":{
+                    "index":"",
+                    "simplicity": "writings/simplicity.html"
 
+                },
+
+                "first_post": "writings/first_post.html",
+                "the_grey_area": "writings/the_grey_area.html",
+                "honesty": "writings/honesty.html"
+            },
+
+            "books":{
+                "index": "main_pages/book.html",
+                "daring_greatly" : "writings/daring_greatly.html"
+             },
+
+
+            "about": "main_pages/about.html",
+            "interests": "main_pages/interests.html",
+            "contact": "main_pages/contact.html",
+            "quotes": "main_pages/quotes.html",
+            "photos": "main_pages/photos.html"
         
-        "books/daring_greatly.html" : "writings/daring_greatly.html",
-        
-        "home.html": "main_pages/home.html",
-        "about.html": "main_pages/about.html",
-        "interests.html": "main_pages/interests.html",
-        "contact.html": "main_pages/contact.html",
-        "book.html": "main_pages/book.html",
-        "quotes.html": "main_pages/quotes.html",
-        "photos.html": "main_pages/photos.html"
     },
 
     "qoutes":{
@@ -31,7 +43,9 @@
         : {"author": "Teddy Roosevelt"},
         "I have no special talents. I am only passionately curious.": {"author": "Albert Einstein"},
         "Most geniuses—especially those who lead others—prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities."
-        : {"author": "Andy Benoit", "Top": true}
+        : {"author": "Andy Benoit", "Top": true},
+        "You've got to know when to hold them, know when to fold them Know when to walk away, know when to run":
+        { "author": "Kenny Rogers"}
     },
 
 
