@@ -62,7 +62,7 @@
         {"quote": "My peers, lately, have found companionship through means of intoxication—it makes them sociable. I, however, cannot force myself to use drugs to cheat on my loneliness—it is all that I have—and when the drugs and alcohol dissipate, will be all that my peers have as well.",
         "author": "Franz Kafka"},
         {"quote": "Reminicing on happy memories is depressing knowing thats all there is.",
-        "author": "Markus"}
+        "author": "Markus", "show":false}
     ],
 
 
@@ -71,3 +71,4 @@
     }
 
 }
+
